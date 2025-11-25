@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-section {
+   padding: 20px; 
+}
+
+.image-container {
+    height: 500px;
+    width: 100%;
+    background-image: url(https://s1.directupload.eu/images/251006/zf974w6x.png);
+}
+
+#place {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+h1, 
+h3 {
+    margin-bottom: 0;
+}
+
+#autor {
+    font-weight: 600;
+    font-style: italic;
+}
+
+#related-places {
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(47deg, #2c2c2c, #b2b0b000);
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul > li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px #dfdfdf;
+}
+
+ul > li > a {
+    color: #2c2c2c;
+    text-decoration-line: none;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    margin: 0 auto;
+}
