@@ -1,0 +1,60 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#tabella-diffusione-css {
+    width: 70%;
+    border: 2px solid rgb(140 140 140);
+    border-collapse: collapse;
+}
+
+#tabella-diffusione-css caption {
+    font-size: 20px;
+}
+
+#tabella-diffusione-css thead tr {
+    text-align: left;
+}
+
+#tabella-diffusione-css tbody td {
+    border: 1px solid black;
+}
+
+
+.newsletter {
+    width: min-content;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+#post-correlati {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    max-width: 500px;
+    margin: 5px;
+}
+
+
+#lista-post-correlati {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(212, 208, 208);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+.post-correlato-titolo {
+    font-weight: bold;
+}
+
+
+#testimonianza-epicode {
+    display: flex;
+    justify-content: center;
+}
