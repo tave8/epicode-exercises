@@ -47,6 +47,10 @@ header {
   box-shadow: 2px 2px 2px 1px rgb(0 0 255 / 0.2);
 }
 
+header .menu li {
+    margin-bottom: 0.7rem;
+}
+
 .logo {
   width: 250px;
   margin-bottom: 1rem;
